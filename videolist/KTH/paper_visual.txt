@@ -1,0 +1,7 @@
+person19_running_d2_133_189_166-185 9 5 5 89 42
+person17_boxing_d1_1_110_11-30 11 10 39 111 90
+person17_handclapping_d2_256_382_296-315 11 13 39 110 102
+person23_handwaving_d4_137_266_157-176 11 15 11 119 65
+person21_jogging_d1_4_40_10-29 13 9 31 116 86
+person20_running_d2_10_44_16-35 11 2 22 74 70
+person19_walking_d3_148_208_178-197 13 17 12 113 52

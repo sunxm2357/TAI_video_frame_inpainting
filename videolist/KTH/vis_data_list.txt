@@ -1,0 +1,12 @@
+person15_boxing_d1 1 150
+person15_handclapping_d1 66 164
+person15_handwaving_d4 151 312
+person15_jogging_d1 260 294
+person15_running_d2 150 180
+person15_walking_d2 480 558
+person16_boxing_d3 371 530
+person16_handclapping_d3 211 340
+person16_handwaving_d1 106 244
+person16_jogging_d2 305 334
+person16_running_d2 270 300
+person16_walking_d4 350 392

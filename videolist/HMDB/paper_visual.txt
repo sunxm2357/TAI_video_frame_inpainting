@@ -1,0 +1,4 @@
+catch/Goalkeeper_Training_Day_#_2_catch_f_cm_np1_ba_bad_3_1-13 6 38 43 118 82
+push/Ashleigh_Staley_Truck_Push_push_f_cm_np1_ri_med_0_1-13 6 22 26 117 181
+jump/Stadium_Plyometric_Workout_jump_f_cm_np1_ba_med_8_1-13 6 69 18 149 123
+somersault/Turnk_r_Pippi_Michel_somersault_f_cm_np2_ri_med_4_1-13 6 59 105 115 141
