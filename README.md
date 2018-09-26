@@ -7,12 +7,13 @@ Ximeng Sun, Ryan Szeto and Jason J. Corso, University of Michigan
 If you use this work in your research, please cite the following paper:
 
 ```
-@article{sun2018temporally,
-  title={A Temporally-Aware Interpolation Network for Video Frame Inpainting},
-  author={Sun, Ximeng and Szeto, Ryan and Corso, Jason J},
-  journal={arXiv preprint arXiv:1803.07218},
-  year={2018}
-} 
+@inproceedings{sun2018temporally,
+    author = "Sun, Ximeng and Szeto, Ryan and Corso, Jason J.",
+    title = "A Temporally-Aware Interpolation Network for Video Frame Inpainting",
+    booktitle = "Asian Conference on Computer Vision",
+    month = "Dec",
+    year = "2018"
+}
 ```
 
 ## Introduction
