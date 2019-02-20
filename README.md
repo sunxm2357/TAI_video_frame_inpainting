@@ -233,4 +233,6 @@ Losses, visualizations for the current batch and the validation are saved in the
 tensorboard --logdir kth_TAI:./tb/kth_TAI_exp1/
 ``` 
 
+## Acknowledgements
 
+We would like to thank Simon Niklaus for providing code for the [Separable Adaptive Interpolation Network](https://github.com/sniklaus/pytorch-sepconv). We borrowed and refactored a large portion of his code in the implementation of our TAI network.
