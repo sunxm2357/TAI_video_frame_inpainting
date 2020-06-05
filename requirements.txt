@@ -7,7 +7,7 @@ chardet==3.0.4
 cycler==0.10.0
 Cython==0.25.2
 decorator==4.1.2
-Django==1.11.5
+Django==1.11.29
 easydict==1.7
 enum==0.4.6
 funcsigs==1.0.2
