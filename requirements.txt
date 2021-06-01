@@ -45,5 +45,5 @@ subprocess32==3.2.7
 tensorboardX==0.8
 torch==0.3.1
 torchvision==0.2.0
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.12.2
