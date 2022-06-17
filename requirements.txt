@@ -21,7 +21,7 @@ Markdown==2.6.9
 matplotlib==2.0.2
 mock==2.0.0
 networkx==2.0
-numpy==1.13.1
+numpy==1.21.0
 olefile==0.44
 packaging==16.8
 pbr==3.1.1
