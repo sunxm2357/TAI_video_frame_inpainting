@@ -13,7 +13,7 @@ enum==0.4.6
 funcsigs==1.0.2
 functools32==3.2.3.post2
 future==0.16.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.6
 image==1.5.15
 imageio==2.2.0
